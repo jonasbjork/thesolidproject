@@ -14,6 +14,21 @@ In short: _Token of appreciation_. I want to make a user (Jonas) be able to send
 - Text generation engine, if the user don't know what to send it should be possible to select presets.
 - Nice to have: latest messages presented on the frontend application
 
+### What is love?
+Plato saw it as a means of ascending to contemplation of the divine; Aristotle viewed it as _seeking the good of the other_. Many modern philosophers consider love to be an essential part of human experience, involving deep interpersonal affection and a _sense of profound connection_.
+
+Psychologists view love in the context of emotions, attachment styles, and human development. They often break love down into components such as intimacy, passion, and _commitment_.
+
+Biologists and neuroscientists look at love as a complex neurobiological phenomenon, driven by hormones and neurotransmitters like dopamine, oxytocin, and vasopressin. They study how love affects the brain and how it evolved as a mechanism _to promote bonding and survival_.
+
+### What is appreciation?
+
+
+### So what is the token of appreciation, or the appreciation token?
+
+
+
+
 ## Things to consider
 
 - Which type of token should this be?
