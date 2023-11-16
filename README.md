@@ -48,5 +48,5 @@ A _appreciation token_ is a small gift, gesture, or act that serves as a tangibl
 
 > **ERC-1155** is a newer standard that allows for both fungible and non-fungible tokens within a single contract. Used by games for items such as weapons, armor and skins.
 
-- This could be the right one for the Appreciation Token.
+- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) could be the right one for the Appreciation Token.
 
